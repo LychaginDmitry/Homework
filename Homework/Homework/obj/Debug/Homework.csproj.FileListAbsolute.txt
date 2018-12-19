@@ -1,0 +1,10 @@
+C:\Users\lycha\Desktop\Учеба МГТУ\c# лаба3\ДЗ\Homework\Homework\bin\Debug\Homework.exe.config
+C:\Users\lycha\Desktop\Учеба МГТУ\c# лаба3\ДЗ\Homework\Homework\bin\Debug\Homework.exe
+C:\Users\lycha\Desktop\Учеба МГТУ\c# лаба3\ДЗ\Homework\Homework\bin\Debug\Homework.pdb
+C:\Users\lycha\Desktop\Учеба МГТУ\c# лаба3\ДЗ\Homework\Homework\obj\Debug\Homework.csprojResolveAssemblyReference.cache
+C:\Users\lycha\Desktop\Учеба МГТУ\c# лаба3\ДЗ\Homework\Homework\obj\Debug\Homework.Properties.Resources.resources
+C:\Users\lycha\Desktop\Учеба МГТУ\c# лаба3\ДЗ\Homework\Homework\obj\Debug\Homework.csproj.GenerateResource.Cache
+C:\Users\lycha\Desktop\Учеба МГТУ\c# лаба3\ДЗ\Homework\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\Users\lycha\Desktop\Учеба МГТУ\c# лаба3\ДЗ\Homework\Homework\obj\Debug\Homework.exe
+C:\Users\lycha\Desktop\Учеба МГТУ\c# лаба3\ДЗ\Homework\Homework\obj\Debug\Homework.pdb
+C:\Users\lycha\Desktop\Учеба МГТУ\c# лаба3\ДЗ\Homework\Homework\obj\Debug\Homework.Form1.resources
